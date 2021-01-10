@@ -10,6 +10,7 @@ export default class App extends Component {
     return (
       <div>
         <h1>hello from app</h1>
+        <h2>Good day netlify</h2>
         <TodoInput></TodoInput>
         <TodoList></TodoList>
       </div>
